@@ -6,6 +6,7 @@ The classes is divided as follows:
 -Application.java as main class
 -Searchfilms.java as main working class
 Im trying to find any working IMDB API, there is no much and no official API. I was trying to use Rapidapi and OMDB API. Example is working with OMDB API, but as I found there is no option by api to filter films only by years, you have to add title or search string for name searching. This is caused by many results. So I made app a little searcher, but for best working it will be usefull to use IMDB free full storage dowmload and own searching mechanism.
+
 2)RESTful simple API
 -DemoApplication.java
 -Client.java
